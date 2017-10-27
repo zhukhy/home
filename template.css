@@ -1,0 +1,44 @@
+body
+{
+	background-image: url("images/background.jpg");
+}
+
+h1
+{
+	border: 2px solid blue;
+	text-align: center;
+	color: lightblue;
+}
+
+h2
+{
+	color: yellow;
+}
+
+p
+{
+	color: white;
+}
+
+a
+{
+	color: white;
+	padding: 25px;
+}
+
+ul li
+{
+	color: white;
+}
+
+
+figure
+{
+	color: white;
+}
+
+.template
+{
+	height:300px; 
+	width:1000px;	
+}

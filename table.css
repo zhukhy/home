@@ -1,0 +1,22 @@
+table, td
+{
+	border: 1px solid black;
+	padding: 2px;
+	border-collapse: collapse;
+	border: 1px solid lightblue;
+}
+
+caption
+{
+	text-align: center;
+}
+
+.imageContainer 
+{
+	float: left;
+}
+
+
+
+
+

@@ -1,0 +1,58 @@
+body
+{
+	background-image: url("images/background.jpg");
+}
+
+h1
+{
+	border: 2px solid blue;
+	text-align: center;
+	color: lightblue;
+}
+
+a
+{
+	color: white;
+	padding: 25px;
+}
+
+ul li
+{
+	color: white;
+}
+
+figure
+{
+	color: white;
+}
+
+p
+{
+	color: white;
+}
+
+h2
+{
+	color:yellow;
+}
+
+.imageContainer {
+	float: left;
+
+}
+
+img {
+    text-align: center;
+}
+
+.berners
+{
+	height:280px; 
+	width:220px;
+}
+
+.w3c
+{
+	height:280px; 
+	width:280px;
+}
